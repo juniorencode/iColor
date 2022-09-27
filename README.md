@@ -1,0 +1,2 @@
+# iColor
+Color Palette Generator
