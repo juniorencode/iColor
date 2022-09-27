@@ -1,0 +1,9 @@
+# Private Node Modules
+node_modules/
+package-lock.json
+
+# Distribution / packaging
+build/
+
+# Environments
+.env
